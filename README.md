@@ -1,6 +1,4 @@
-# Hello there 👋
-
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+# Hello👋
 
 ```python
 #!/usr/bin/python
@@ -15,7 +13,7 @@ class SoftwareEngineer:
         self.language_spoken = ["ko_KR", "en_US"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("I'm a novice developer from South Korea, I'm looking for opportunities :)")
 
 
 me = SoftwareEngineer()
