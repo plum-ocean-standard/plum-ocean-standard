@@ -13,7 +13,7 @@ class SoftwareEngineer:
         self.language_spoken = ["ko_KR", "en_US"]
 
     def say_hi(self):
-        print("I'm a novice developer from South Korea, I'm looking for opportunities.")
+        print("I'm a novice developer from South Korea, looking for opportunities.")
 
 
 me = SoftwareEngineer()
